@@ -1,0 +1,16 @@
+.button{
+    position: absolute;
+    top:60%;
+    left:40%;
+    transform: tramslate(-50%,-50%);
+}
+.btn{
+    border: 1px solid #fff;
+    padding: 10px 30 px;
+    color: coral;
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: #fff;
+    color: #000;
+}
